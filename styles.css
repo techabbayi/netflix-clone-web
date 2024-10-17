@@ -179,3 +179,35 @@ footer{
     margin-left: 46px;
     align-items: center;
 }
+@media  screen and (max-width:700px) {
+    .menu{
+       display: none;
+    }
+   .show{
+    display: none;
+   }
+   h1{
+    font-size: 70px;
+   }
+   .name-buttons {
+    margin-left: -10px;
+        flex-direction: column;
+        width: 150px;
+   }
+   .rank{
+    width: 150px;
+   }
+   #rank{
+    display: none;
+   }
+   .images{
+    width: 150px;
+   }
+   p{
+    margin-left: -20px;
+   }
+   #movie{
+    width: 180px;
+    height: 110px;
+   }
+}
