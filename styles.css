@@ -1,4 +1,4 @@
-  @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&display=swap');
 
 *{
     box-sizing: border-box;
@@ -32,6 +32,7 @@ nav ul{
 .nav-bar{
     display: flex;
 }
+
 .logo{
     width: 15%;
     margin: 30px;
